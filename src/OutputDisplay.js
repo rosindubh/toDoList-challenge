@@ -2,9 +2,9 @@
 
 const OutputDisplay = (props) => {
 
-  const deleteByIndex = (index) => {
+  const deleteByIndex = () => {
     const newTasks = [...props.tasks]
-      newTasks.splice(index, 1)
+      newTasks.splice(3, 1)
       props.setTasks(newTasks)
       props.setInput("")
     }
@@ -12,8 +12,8 @@ const OutputDisplay = (props) => {
       <div>
         {/* <p>{props.input}</p>  */}
         <input  
-        value={props.input}
-        type="text" 
+        value={props.removeInput}
+        type={Int8Array}
         onChange={(event) => props.setInput(event.target.value)} />
         <button className="remove-btn" onClick={deleteByIndex}>Remove task</button>
       </div>

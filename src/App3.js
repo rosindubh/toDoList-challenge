@@ -9,6 +9,7 @@ const App3 = () => {
 
 const [input, setInput] = useState("")
 const [tasks, setTasks] = useState([])
+const [removeInput, setRemoveInput] = useState("")
 
 
   return (
@@ -24,7 +25,7 @@ const [tasks, setTasks] = useState([])
     setTasks = {setTasks}
     />
     <OutputDisplay 
-    input={input}
+    removeInput={removeInput}
     setInput={setInput}
     tasks={tasks}
     setTasks = {setTasks}
