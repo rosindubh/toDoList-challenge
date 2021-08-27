@@ -31,7 +31,7 @@ p {
   margin-left: 100px;
   margin-bottom: 20px;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .submit-btn {
@@ -45,7 +45,7 @@ p {
 }
 
 .remove-btn {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 100px;
   background-color: red;
   color: azure;
