@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toDoList-challenge/static/css/main.d7db2007.chunk.css",
+    "main.js": "/toDoList-challenge/static/js/main.d1edbbd9.chunk.js",
+    "main.js.map": "/toDoList-challenge/static/js/main.d1edbbd9.chunk.js.map",
+    "runtime-main.js": "/toDoList-challenge/static/js/runtime-main.faea6027.js",
+    "runtime-main.js.map": "/toDoList-challenge/static/js/runtime-main.faea6027.js.map",
+    "static/js/2.ef8843f3.chunk.js": "/toDoList-challenge/static/js/2.ef8843f3.chunk.js",
+    "static/js/2.ef8843f3.chunk.js.map": "/toDoList-challenge/static/js/2.ef8843f3.chunk.js.map",
+    "static/js/3.11cc7ff6.chunk.js": "/toDoList-challenge/static/js/3.11cc7ff6.chunk.js",
+    "static/js/3.11cc7ff6.chunk.js.map": "/toDoList-challenge/static/js/3.11cc7ff6.chunk.js.map",
+    "index.html": "/toDoList-challenge/index.html",
+    "static/css/main.d7db2007.chunk.css.map": "/toDoList-challenge/static/css/main.d7db2007.chunk.css.map",
+    "static/js/2.ef8843f3.chunk.js.LICENSE.txt": "/toDoList-challenge/static/js/2.ef8843f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/toDoList-challenge/static/media/sword.64d7b77f.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faea6027.js",
+    "static/js/2.ef8843f3.chunk.js",
+    "static/css/main.d7db2007.chunk.css",
+    "static/js/main.d1edbbd9.chunk.js"
+  ]
+}
